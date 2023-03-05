@@ -1,0 +1,32 @@
+table{
+    width: 100%;
+    height: auto;
+    padding: 10px;
+    border-collapse: separate;
+    border-spacing: 10px;
+    background-color: white;
+    
+}
+table tr td{
+    background-color: black;
+    font-size: 30px;
+    font-weight: 500;
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: 4px 4px 4px;
+
+}
+.row{
+    height: 80px;
+    text-align: center;
+}
+#content{
+    height: 300px;
+    text-align: center;
+}
+.con-1{
+    width: 20%;
+}
+#con-2{
+    width: 60%;
+}
